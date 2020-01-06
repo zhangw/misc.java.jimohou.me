@@ -1,6 +1,5 @@
 package geekbang.design.pattern.beauty.artical28;
 
-import com.sun.tools.javac.util.Assert;
 
 import java.util.Arrays;
 
