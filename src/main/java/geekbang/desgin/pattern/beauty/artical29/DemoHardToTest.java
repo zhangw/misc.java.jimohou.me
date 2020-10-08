@@ -1,5 +1,7 @@
 package geekbang.desgin.pattern.beauty.artical29;
 
+import java.util.concurrent.locks.Lock;
+
 /**
  * @author vincent
  * @date 2020/1/9

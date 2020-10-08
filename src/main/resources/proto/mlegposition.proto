@@ -1,0 +1,12 @@
+syntax = "proto3";
+import "money.proto";
+package proto;
+
+option java_package = "protobuf.demo";
+option java_outer_classname = "MlegPositionProtos";
+
+message MlegPosition {
+    string id = 1;
+    map<int32, Money> moneyMap = 2;
+    repeated Money moneyList = 3;
+}

@@ -1,0 +1,4 @@
+protoc --java_out=/Users/vincent/Codes/Java/workspace/Study/src/main/java/ addressbook.proto
+protoc --java_out=/Users/vincent/Codes/Java/workspace/Study/src/main/java/ wallet.proto
+protoc --java_out=/Users/vincent/Codes/Java/workspace/Study/src/main/java/ mlegposition.proto
+protoc --java_out=/Users/vincent/Codes/Java/workspace/Study/src/main/java/ money.proto
